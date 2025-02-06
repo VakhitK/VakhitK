@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Vakhit Kalimullin
-- 👀 I’m interested in Game Development and Backend Development
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on some Game Development projects
-- 📫 How to reach me [...](https://t.me/VakhitKalimullin)
+- 📫 How to reach me (https://t.me/VakhitKalimullin)
 
 <!---
 VakhitK/VakhitK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
